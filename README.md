@@ -1,2 +1,2 @@
 ## MachineLearningAlgorithms
-Here, I will be adding ML algorithms.
+Here, you will find my all the projects and assignments related to my ML course.
