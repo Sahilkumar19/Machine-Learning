@@ -10,15 +10,8 @@ This repository serves as a centralized hub for all things related to machine le
 
 ### Assignments
 
-- **Linear Regression**: Implement linear regression from scratch.
-- **Classification with Decision Trees**: Implement decision tree classification.
-- **Clustering with K-Means**: Implement K-means clustering.
-
-### Algorithms
-
-- **Linear Regression**: Implementation of linear regression.
-- **Decision Trees**: Implementation of decision trees.
-- **K-Means Clustering**: Implementation of K-means clustering.
+- **Linear Regression**
+- **Bag of Words Model**
 
 ## Contributing
 
