@@ -23,5 +23,5 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 
 ## Get in Touch
 
-If you have any questions, suggestions, or feedback, feel free to reach out. You can contact us at [email@example.com](mailto:kumarsahil7753@gmail.com) or open an issue in this repository.
+If you have any questions, suggestions, or feedback, feel free to reach out. You can contact us at [kumarsahil7753@gmail.com](mailto:kumarsahil7753@gmail.com) or open an issue in this repository.
 
