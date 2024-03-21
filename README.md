@@ -13,6 +13,9 @@ This repository serves as a centralized hub for all things related to machine le
 - **Linear Regression**
 - **Bag of Words Model**
 
+### Projects
+- **Customer Churn Prediction Model**
+
 ## Contributing
 
 Contributions to this repository are welcome! Whether it's fixing a bug, adding a new project, or improving documentation, your contributions help make this repository more valuable to the community. Please refer to the [contribution guidelines](CONTRIBUTING.md) for more information.
